@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BranchesSystem.Cli": {
+      "commandName": "Project",
+      "commandLineArgs": "-d 2"
+    }
+  }
+}
